@@ -1,0 +1,19 @@
+{
+  "name": "commonmodules-generate-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvaniTechtic/commonModules-generate-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvaniTechtic/commonModules-generate-pdf/issues"
+  },
+  "homepage": "https://github.com/AvaniTechtic/commonModules-generate-pdf#readme"
+}
